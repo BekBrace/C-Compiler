@@ -19,7 +19,8 @@ This program relies on standard C libraries:
 ## How to Use
 
 1. **Compile**: Compile the program using a C compiler. For example, using GCC:
-   ```bash
+
+```bash
    gcc -o arithmetic_parser arithmetic_parser.c
 ```
 
