@@ -22,3 +22,11 @@ This program relies on standard C libraries:
    ```bash
    gcc -o arithmetic_parser arithmetic_parser.c
 ```
+
+2. Run: Execute the compiled program:
+
+```bash
+./arithmetic_parser
+Input: Enter an arithmetic expression when prompted (e.g., 3 + 4 - 2).
+```
+# Feel free to fork and submit your commits, to check and approve eventually.
